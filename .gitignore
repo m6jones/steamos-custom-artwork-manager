@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.bak
+*.log
+research_log.md
